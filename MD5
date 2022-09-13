@@ -1,9 +1,9 @@
-b00ca90690a2b7fd9ef4cc502f40bb3e *DESCRIPTION
+9e7802e84e7c246d4966be7672404534 *DESCRIPTION
 9bf0ccb0f56f283bbe79079583c1a468 *LICENSE
 da73503535ff9b8e6a2129051198f964 *NAMESPACE
-08e130565df6e5295d8f32a28501603e *NEWS.md
+435f7afa6933c3e7dac5928967617bb0 *NEWS.md
 d1142d1fe99432655a5580824593706a *R/WoodburyMatrix-package.R
-a8624110a7dbb0b3fde57ef1b06ad261 *R/WoodburyMatrix.R
+d889a886284c8d248dd9afeb2f096462 *R/WoodburyMatrix.R
 82ac14d36d877ea35cc7f104402fe8ca *R/class-WoodburyMatrix.R
 523a0a75ed2831d4c76c9fc310f566c4 *R/determinant.R
 8e8317d23a92582cfc1c16e8e78e8dc7 *R/instantiate.R
@@ -14,10 +14,10 @@ b8ab0ccd60889b1847cb3b14d93d1f31 *R/matrix-ops.R
 8ebbd0bc6f0a888993e35c99de93b67b *R/solve.R
 c088c3b11a08134c3a9609bdcc56aa0d *R/utils.R
 b06f0f6f62941970105cd7899bc5b01f *R/validity.R
-aa915636a23084695e315434e14229a2 *build/vignette.rds
+15e4882e9851780d84821abad1b78734 *build/vignette.rds
 7e00093369ba873afc1463b7f3df6c00 *inst/doc/WoodburyMatrix.R
 db46562b2d953256b5732a47a9db2f58 *inst/doc/WoodburyMatrix.Rmd
-8d69e389e7ed9e8c68f13add67453019 *inst/doc/WoodburyMatrix.html
+758e3973ff0f89a792b09cf1a718bdc7 *inst/doc/WoodburyMatrix.html
 b3d206c2044389634ebeb7be2c61ce84 *man/WoodburyMatrix-class.Rd
 5cf883a4d6cac8f1791b45e320cfb929 *man/WoodburyMatrix.Rd
 4477da6272dca9a688a8ba72a4754778 *man/determinant-WoodburyMatrix-logical-method.Rd
@@ -27,7 +27,7 @@ eb7a118cbfaceeff937d9b6f39e0c872 *man/normal-distribution-methods.Rd
 cdc22a10d5769d0d90ebb457224377f8 *man/solve-methods.Rd
 1a459905fec54a08c8c75a79cbd793b9 *tests/testthat.R
 1a1fdb802c2cec579cc1ecbbb3afad41 *tests/testthat/matrices.rda
-c2da43d45d7648e91c5196b6b3c065e9 *tests/testthat/test-WoodburyMatrix.R
+84e9587baa3ee3996a35180ad02bdf1e *tests/testthat/test-WoodburyMatrix.R
 16be34feaaf18fc2da65c7b2154fdc29 *tests/testthat/test-lintr.R
-7462bd4e9e1a0c56254ae3b4099e18f4 *tests/testthat/test-normal-distribution.R
+54c51d37792ce05ed0e33e204b21a76c *tests/testthat/test-normal-distribution.R
 db46562b2d953256b5732a47a9db2f58 *vignettes/WoodburyMatrix.Rmd
